@@ -137,4 +137,4 @@ STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
 
 ALLOWED_HOSTS = ['localhost','django-railway-production-9b3d.up.railway.app']
 
-CSRF_TRUSTED_ORIGINS = ['HTTP://*','https://django-railway-production-9b3d.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['HTTP://*','https://django-railway-production-9b3d.up.railway.app']
